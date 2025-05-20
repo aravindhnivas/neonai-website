@@ -1,34 +1,34 @@
 <script lang="ts">
 	const projects = [
 		{
-			title: 'AI-Powered Analytics Platform',
+			title: 'Voice Cloning',
 			description:
-				'A comprehensive analytics solution that leverages machine learning to provide actionable insights from complex data sets.',
-			image: 'https://via.placeholder.com/600x400',
+				'Our voice cloning technology creates highly realistic digital voices based on real human samples.',
+			image: 'https://picsum.photos/id/1/600/400',
 			technologies: ['Machine Learning', 'Python', 'TensorFlow', 'React'],
 			link: '#'
 		},
 		{
-			title: 'Natural Language Processing API',
+			title: 'Prosody Identification',
 			description:
-				'Advanced NLP capabilities for text analysis, sentiment analysis, and language understanding.',
-			image: 'https://via.placeholder.com/600x400',
+				'Words matter, but how you say them matters more. Our prosody engine analyzes the emotional tone, rhythm, and pitch of speech to understand the true intent behind every word.',
+			image: 'https://picsum.photos/id/2/600/400',
 			technologies: ['NLP', 'Python', 'FastAPI', 'Docker'],
 			link: '#'
 		},
 		{
-			title: 'Computer Vision System',
+			title: 'Real-Time Multilingual Captioning',
 			description:
-				'Real-time object detection and image recognition system for industrial applications.',
-			image: 'https://via.placeholder.com/600x400',
+				'Break down language barriers with our AI-driven captioning system. It generates real-time, multilingual subtitles during meetings, live events, online classes, and video streams. This helps improve accessibility, reach wider audiences, and support global communication—especially in diverse workspaces and educational platforms.',
+			image: 'https://picsum.photos/id/3/600/400',
 			technologies: ['Computer Vision', 'PyTorch', 'OpenCV', 'C++'],
 			link: '#'
 		},
 		{
-			title: 'AI Chatbot Framework',
+			title: 'Voice Synthesis (Text-to-Speech)',
 			description:
-				'Customizable chatbot framework that can be trained for specific business domains.',
-			image: 'https://via.placeholder.com/600x400',
+				'Convert any text into expressive, natural-sounding speech using our advanced voice synthesis engine. With support for multiple languages and customizable tones, this service is perfect for e-learning platforms, audiobooks, marketing content, IVR systems, and more. Our speech is not just clear—it sounds real.',
+			image: 'https://picsum.photos/id/4/600/400',
 			technologies: ['Deep Learning', 'Python', 'TensorFlow', 'Node.js'],
 			link: '#'
 		}
@@ -42,8 +42,10 @@
 				Our Projects
 			</h1>
 			<p class="mx-auto mt-6 max-w-2xl text-xl text-gray-500">
-				Explore our innovative AI solutions and cutting-edge projects that are transforming
-				industries.
+				At Project Neon, we are building the future of voice technology—where communication is
+				seamless, inclusive, and intelligent. Our AI-powered solutions are designed to empower
+				individuals and organizations with advanced speech capabilities that make a real-world
+				impact. Here’s what we offer:
 			</p>
 		</div>
 

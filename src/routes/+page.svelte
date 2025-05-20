@@ -32,8 +32,10 @@
 				Welcome to NeonAI
 			</h1>
 			<p class="mt-6 max-w-3xl text-xl text-indigo-100">
-				We're revolutionizing the future of artificial intelligence with innovative solutions that
-				drive business growth and technological advancement.
+				Welcome to the Landing Page of the NEON Project, an initiative by Neurale Fisica. We are
+				extremely delighted by your shown interest in our endeavour. Buckle up and get ready for a
+				captivating journey through which we unveil our services, which not only make you more
+				productive but also the greater development of the human society, more sustainable.
 			</p>
 			<div class="mt-10">
 				<a
